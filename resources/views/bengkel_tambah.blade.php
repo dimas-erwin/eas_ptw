@@ -1,4 +1,5 @@
 @extends('layout')
+@section('title','Sistem Bengkel')
 @section('body')
 <br></br>
 <div class="row">

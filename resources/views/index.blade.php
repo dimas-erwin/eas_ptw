@@ -1,4 +1,5 @@
 @extends('layout')
+@section('title','Sistem Bengkel')
 @section('body')
 <div class="row">
     <div class="col-md-12">

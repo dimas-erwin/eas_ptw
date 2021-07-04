@@ -1,10 +1,10 @@
 @extends('layout')
-@section('title','admin')
+@section('title','Sistem Bengkel')
 @section('body')
 
 <div class="row">
     <div class="col-md-12">
-        <h1 class="page-head-line" >Bengkel</h1>
+        <h1 class="page-head-line" >Data Bengkel</h1>
 
     </div>
 </div>
@@ -19,7 +19,7 @@
                                     <thead>
                                         <tr>
                                             <th>No</th>
-                                            <th>Judul</th>
+                                            <th>Sparepart</th>
                                             <th>Jenis</th>
                                             <th>Aksi</th>
                                             
